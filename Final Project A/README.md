@@ -1,8 +1,7 @@
 
 ## Main Notebook Files
 ### MNIST1D.ipynb
-This notebook contains many sections that must be run from top to bottom to get proper outputs that are already visible. Note that the results you may receive might be slightly different due to the generation of random masks for the attribution methods
-The following are the most relevant sections that were used to answer questions in the report:
+This notebook contains many sections that must be run from top to bottom to get proper outputs that are already visible. Note that the results you may receive might be slightly different due to the generation of random masks for the attribution methods. The following are the most relevant sections that were used to answer questions in the report:
 #### TASK 1 Q1 - Model Creation
 - This section outlines the creation of the CNN model for MNIST-1D
 #### TASK 1 Q2 - Training the model
@@ -17,7 +16,7 @@ The following are the most relevant sections that were used to answer questions 
 - This sections computes the average drop and average increase rates for MNIST-1D CNN model
 
 ### HMT.ipynb
-The following are the most relevant sections that were used to answer questions in the report:
+This notebook contains many sections that must be run from top to bottom to get proper outputs that are already visible. Note that the results you may receive might be slightly different due to the generation of random masks for the attribution methods The following are the most relevant sections that were used to answer questions in the report:
 #### TASK 3 Q1 - Load Model and Evaluate
 - The HMT pretrained model was loaded and evaluated using the same performance metrics from the MNIST1D.ipynb
 #### TASK 3 Q2
