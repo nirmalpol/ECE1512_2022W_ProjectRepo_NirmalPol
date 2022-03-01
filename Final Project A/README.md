@@ -29,9 +29,9 @@ This notebook contains many sections that must be run from top to bottom to get 
 
 - MNIST1D.pkl is a “pickle file” containing all data in the MNIST-1D dataset. The data in this file is save as a dictionary that can be also created using the function make_dataset() in the library mnist1d_utils.py. More information to read the dictionary is provided in the notebook MNIST1D.ipynb.
  
-- hmt_dataset is a folder containing two subfolders, including the train and test set for the HMT dataset. This is obtained from the paper: https://www.nature.com/articles/srep27988
+- hmt_dataset is a folder containing two subfolders, including the train and test set for the HMT dataset. This must be obtained from the paper: https://www.nature.com/articles/srep27988
 
-- xai_utils.py is a Python file including utility functions needed for three state-of-the-art solutions in the field of visual XAI, Grad-CAM, RISE (Randomized Input Sampling for Explanation), and SISE (Semantic Input Sampling for Explanation). 
+- xai_utils.py is a Python file including utility functions needed for three state-of-the-art solutions in the field of visual XAI, Grad-CAM, RISE (Randomized Input Sampling for Explanation), and SISE (Semantic Input Sampling for Explanation). This was obtained from Ahmad Sajedi from ECE1512 Course TA.
 
 - models is a folder containing the pre-trained VGG7 model for HMT dataset.
 
