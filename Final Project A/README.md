@@ -1,6 +1,22 @@
 
 ## Main Notebook Files
 ### MNIST1D.ipynb
+This notebook contains many sections that must be run from top to bottom to get proper outputs that are already visible. Note that the results you may receive might be slightly different due to the generation of random masks for the attribution methods
+
+The following are the most relevant sections that were used to answer questions in the report:
+
+#### TASK 1 Q1 - Model Creation
+This section outlines the creation of the CNN model for MNIST-1D
+#### TASK 1 Q2 - Training the model
+This section outlines how the model was trained
+#### TASK 1 Q3 - Evaluation Metrics
+This section outlines the performance metrics applied when the CNN model was tested
+#### TASK 1 Q4
+This section shows some of the successful predictions and failed predictions made by the CNN model
+#### TASK 2 Q2
+This section applies LIME and RISE attribution methods for each unique digits from 0-9
+#### Task 4
+This sections computes the average drop and average increase rates for MNIST-1D CNN model
 
 ### HMT.ipynb
 
@@ -20,6 +36,7 @@
 
 ## Python Libraries Required:
 
-- Ensure you have all the python libraries for running both Jupyter Notebooks
-- pip install lime to run parts of the LIME attribution method
+- Ensure you are running Python 3
+- Ensure you have all the python libraries for running both Jupyter Notebooks (Includes numpy, scipy, tensorflow, matplotlib, and sklearn)
+- pip install lime to run parts of the LIME attribution method (Based on: https://github.com/marcotcr/lime)
 
