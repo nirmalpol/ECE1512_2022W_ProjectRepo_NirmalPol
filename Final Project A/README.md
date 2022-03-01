@@ -3,26 +3,26 @@
 ### MNIST1D.ipynb
 This notebook contains many sections that must be run from top to bottom to get proper outputs that are already visible. Note that the results you may receive might be slightly different due to the generation of random masks for the attribution methods
 The following are the most relevant sections that were used to answer questions in the report:
-#### TASK 1 Q1 - Model Creation
+### TASK 1 Q1 - Model Creation
 This section outlines the creation of the CNN model for MNIST-1D
-#### TASK 1 Q2 - Training the model
+### TASK 1 Q2 - Training the model
 This section outlines how the model was trained
-#### TASK 1 Q3 - Evaluation Metrics
+### TASK 1 Q3 - Evaluation Metrics
 This section outlines the performance metrics applied when the CNN model was tested
-#### TASK 1 Q4
+### TASK 1 Q4
 This section shows some of the successful predictions and failed predictions made by the CNN model
-#### TASK 2 Q2
+### TASK 2 Q2
 This section applies LIME and RISE attribution methods for each unique digits from 0-9
-#### Task 4
+### Task 4
 This sections computes the average drop and average increase rates for MNIST-1D CNN model
 
 ### HMT.ipynb
 The following are the most relevant sections that were used to answer questions in the report:
-#### TASK 3 Q1 - Load Model and Evaluate
+### TASK 3 Q1 - Load Model and Evaluate
 The HMT pretrained model was loaded and evaluated using the same performance metrics from the MNIST1D.ipynb
-#### TASK 3 Q2
+### TASK 3 Q2
 This section applies LIME and RISE methodology to each unique class from Histopathological Test Set
-#### TASK 4
+### TASK 4
 This sections computes the average drop and average increase rates for HMT model
 
 ## Supplementary files Required:
