@@ -33,9 +33,6 @@ This notebook contains many sections that must be run from top to bottom to get 
 
 - xai_utils.py is a Python file including utility functions needed for three state-of-the-art solutions in the field of visual XAI, Grad-CAM, RISE (Randomized Input Sampling for Explanation), and SISE (Semantic Input Sampling for Explanation). This was obtained from Ahmad Sajedi from ECE1512 Course TA.
 
-- models is a folder containing the pre-trained VGG7 model for HMT dataset.
-
-
 ## Python Libraries Required:
 
 - Ensure you are running Python 3
