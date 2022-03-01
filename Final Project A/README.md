@@ -18,4 +18,8 @@
 
 - Project A_FAQs: A list of Frequently Asked Questions which try to throw light on (almost) all of your questions and concerns which you may have during the course of Project A.
 
+## Python Libraries Required:
+
+- Ensure you have all the python libraries for running both Jupyter Notebooks
+- pip install lime to run parts of the LIME attribution method
 
