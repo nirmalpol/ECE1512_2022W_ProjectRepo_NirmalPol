@@ -2,6 +2,7 @@
 ### Task1.ipynb
 This notebook contains many sections that must be run from top to bottom to get proper outputs that are already visible.
 All the code for questions 1-13 in Task 1 of Project B assignment are found in this notebook.
+The headings have been numbered to indicate which code section belongs to their respective questions
 
 ### Task2.ipynb
 This notebook contains many sections that must be run from top to bottom to get proper outputs that are already visible.
